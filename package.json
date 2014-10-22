@@ -1,0 +1,22 @@
+{
+    "name": "kaazing-client-javascript-util",
+    "version": "5.0.0-11",
+    "description": "Utility files included in various Kaazing WebSocket Gateway Javascript client technologies.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaazing/kaazing-client-javascript-util.git"
+    },
+    "keywords": [
+        "kaazing",
+        "gateway",
+        "browser",
+        "client-side"
+    ],
+    "author": "Kaazing",
+    "licenses": [
+        {
+            "type": "Apache 2",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    ]
+}
